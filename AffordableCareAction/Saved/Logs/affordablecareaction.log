@@ -1498,3 +1498,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-03.42.21:557][606]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.330
 [2020.02.01-03.42.21:573][606]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.02.01-03.42.21:573][606]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-03.57.04:244][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.01-03.57.04:533][708]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap1D21AC914C4A588C3DC5A8858B370076.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-03.57.04:650][708]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap_BuiltData3DA1B11648A6D0366BDB92B5D2FA319D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.01-03.57.04:671][708]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.01-03.57.04:671][708]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-03.57.04:671][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.02.01-03.57.14:437][677]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonCharacter41F7F3EC4A8035260AAA96B6229750B6.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.01-03.57.14:459][677]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.01-03.57.14:459][677]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
