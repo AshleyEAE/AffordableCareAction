@@ -4546,3 +4546,608 @@ Script Stack (0 frames):
 [2020.02.01-20.15.29:315][759]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.441
 [2020.02.01-20.15.29:333][759]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.02.01-20.15.29:333][759]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-20.16.36:672][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (patientZero)
+[2020.02.01-20.16.36:699][564]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-20.16.42:446][177]LogEditorViewport: Clicking on Actor (LMB): patient_C (patient)
+[2020.02.01-20.17.22:963][368]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.01-20.18.20:723][ 76]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.18.21:146][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.02.01-20.21.05:779][189]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.21.06:251][189]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.02.01-20.21.08:496][399]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonCharacter23D4B3D04BA7B5FC49A5E69B9BDCB6BD.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.01-20.21.08:515][399]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.01-20.21.08:515][399]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-20.22.20:281][119]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.22.20:742][119]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2020.02.01-20.22.23:302][381]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonCharacterC24F75F84F2667DA3FCCE4971D1F3E46.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.01-20.22.23:327][381]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.01-20.22.23:327][381]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-20.22.49:752][884]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.22.50:189][884]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2020.02.01-20.22.53:098][100]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonCharacterFE2748C942C9245E1C84DABC5BFBC36E.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.01-20.22.53:122][100]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.01-20.22.53:122][100]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-20.22.56:868][413]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-20.22.56:901][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.22.56:901][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-20.22.56:901][413]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2020, 6:22:56 AM)
+[2020.02.01-20.22.56:901][413]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.22.56:918][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017228s)
+[2020.02.01-20.22.56:920][413]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-20.22.56:920][413]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2020.02.01-20.22.56:920][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018796s)
+[2020.02.01-20.22.56:988][413]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-20.22.56:994][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-20.22.56:994][413]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-20.22.56:994][413]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-20.22.57:062][413]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: Channel Order:
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-20.22.57:063][413]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-20.22.57:075][413]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.22.57:077][413]LogInit: FAudioDevice initialized.
+[2020.02.01-20.22.57:083][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-20.22.57:086][413]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-13.22.57
+[2020.02.01-20.22.57:087][413]LogWorld: Bringing up level for play took: 0.002626
+[2020.02.01-20.22.57:087][413]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.02.01-20.22.57:089][413]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.372
+[2020.02.01-20.22.57:089][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.23.21:002][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.23.21:002][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.23.21:003][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.23.21:003][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.23.21:003][249]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.23.21:003][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.23.21:003][249]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-20.23.21:003][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.23.21:041][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-20.23.21:041][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.23.21:048][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.23.21:108][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.23.21:110][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.23.21:116][249]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.01-20.23.21:151][250]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.01-20.24.03:223][ 31]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:224][ 31]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:227][ 31]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:229][ 31]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:232][ 31]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:246][ 32]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:249][ 32]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:253][ 33]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:255][ 33]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:258][ 33]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:264][ 34]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:266][ 34]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:272][ 35]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:274][ 35]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:279][ 36]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:281][ 36]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:284][ 36]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:289][ 37]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:291][ 37]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:297][ 38]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:300][ 38]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:304][ 39]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:306][ 39]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:309][ 39]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:314][ 40]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:318][ 40]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:322][ 41]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:323][ 41]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:326][ 41]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:332][ 42]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:334][ 42]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:340][ 43]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:343][ 43]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:349][ 44]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:351][ 44]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:357][ 45]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:360][ 45]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:365][ 46]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:368][ 46]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:374][ 47]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:376][ 47]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:382][ 48]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:385][ 48]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:391][ 49]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:395][ 49]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:401][ 50]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:404][ 50]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:409][ 51]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:413][ 51]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:418][ 52]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:421][ 52]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:426][ 53]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:430][ 53]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:435][ 54]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:438][ 54]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:443][ 55]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:447][ 55]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:452][ 56]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:455][ 56]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:460][ 57]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:463][ 57]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:468][ 58]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:471][ 58]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:477][ 59]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:479][ 59]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:485][ 60]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:487][ 60]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:492][ 61]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:494][ 61]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:497][ 61]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:502][ 62]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:504][ 62]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:510][ 63]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:513][ 63]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:518][ 64]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:522][ 64]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:527][ 65]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:529][ 65]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:535][ 66]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:536][ 66]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:539][ 66]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:545][ 67]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:547][ 67]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:553][ 68]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:556][ 68]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:562][ 69]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:564][ 69]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:569][ 70]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:570][ 70]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:573][ 70]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:579][ 71]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:582][ 71]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:587][ 72]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:589][ 72]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:595][ 73]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:597][ 73]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:603][ 74]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:606][ 74]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:612][ 75]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:614][ 75]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:619][ 76]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:620][ 76]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:624][ 76]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:629][ 77]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:632][ 77]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:636][ 78]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:637][ 78]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:641][ 78]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:647][ 79]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:649][ 79]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:655][ 80]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:658][ 80]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:664][ 81]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:667][ 81]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:672][ 82]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:674][ 82]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:681][ 83]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:684][ 83]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:688][ 84]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:691][ 84]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:697][ 85]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:700][ 85]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:705][ 86]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:708][ 86]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:714][ 87]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:716][ 87]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:722][ 88]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:724][ 88]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:730][ 89]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:733][ 89]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:738][ 90]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:741][ 90]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:747][ 91]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:749][ 91]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:755][ 92]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:757][ 92]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:763][ 93]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:766][ 93]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:772][ 94]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:774][ 94]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:780][ 95]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:782][ 95]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:789][ 96]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:791][ 96]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:797][ 97]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:800][ 97]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:805][ 98]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:808][ 98]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:813][ 99]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:816][ 99]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:822][100]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:824][100]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:830][101]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:832][101]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:838][102]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:841][102]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:847][103]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:849][103]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:855][104]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:858][104]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:864][105]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:866][105]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:872][106]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:874][106]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:880][107]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:883][107]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:888][108]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:891][108]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:896][109]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:899][109]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:905][110]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:907][110]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:913][111]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:916][111]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:922][112]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:924][112]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:930][113]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:932][113]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:938][114]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:941][114]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:947][115]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:949][115]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:955][116]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:958][116]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:963][117]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:964][117]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:967][117]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:971][118]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:973][118]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:976][118]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:980][119]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:981][119]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:985][119]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:989][120]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:991][120]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:994][120]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.03:998][121]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.04:000][121]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.04:003][121]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.05:412][287]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.05:412][287]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.24.42:705][524]LogUObjectArray: Warning: Invalid object index 7274604
+[2020.02.01-20.24.42:705][524]LogUObjectArray: Warning: Invalid object index 7274604
+[2020.02.01-20.24.42:708][524]LogUObjectArray: Warning: Invalid object index 7274604
+[2020.02.01-20.24.42:711][524]LogUObjectArray: Warning: Invalid object index 7274604
+[2020.02.01-20.24.42:714][524]LogUObjectArray: Warning: Invalid object index 7274604
+[2020.02.01-20.24.54:746][866]BlueprintLog: New page: Compile sleeptool_blueprint
+[2020.02.01-20.24.55:167][866]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.02.01-20.24.55:831][922]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/sleeptool_blueprintCF4BF9074476234203D311A1122D4F90.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/sleeptool_blueprint.uasset'
+[2020.02.01-20.24.55:852][922]AssetCheck: New page: Asset Save: sleeptool_blueprint
+[2020.02.01-20.24.55:852][922]LogContentValidation: Display: Validating Blueprint /Game/ACA/sleeptool_blueprint.sleeptool_blueprint
+[2020.02.01-20.25.02:233][635]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-20.25.02:265][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.25.02:265][635]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-20.25.02:278][635]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.01-20.25.02:767][635]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.02.01-20.25.02:768][635]LogPlayLevel: PlayLevel: Blueprint regeneration took 502 ms (1 blueprints)
+[2020.02.01-20.25.02:768][635]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2020, 6:25:02 AM)
+[2020.02.01-20.25.02:768][635]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.25.02:784][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016240s)
+[2020.02.01-20.25.02:785][635]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-20.25.02:786][635]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2020.02.01-20.25.02:786][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017921s)
+[2020.02.01-20.25.02:849][635]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-20.25.02:857][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-20.25.02:857][635]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-20.25.02:857][635]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-20.25.02:924][635]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-20.25.02:924][635]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.25.02:924][635]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-20.25.02:924][635]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-20.25.02:924][635]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-20.25.02:924][635]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-20.25.02:925][635]LogAudioMixer: Display: Channel Order:
+[2020.02.01-20.25.02:925][635]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-20.25.02:925][635]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-20.25.02:937][635]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.25.02:939][635]LogInit: FAudioDevice initialized.
+[2020.02.01-20.25.02:945][635]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-20.25.02:947][635]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-13.25.02
+[2020.02.01-20.25.02:948][635]LogWorld: Bringing up level for play took: 0.002260
+[2020.02.01-20.25.02:948][635]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.02.01-20.25.02:950][635]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.49
+[2020.02.01-20.25.02:950][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.25.16:439][229]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.25.16:439][229]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.25.16:439][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.25.16:439][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.25.16:439][229]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.25.16:439][229]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.25.16:439][229]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-20.25.16:440][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.25.16:458][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-20.25.16:458][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.25.16:466][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.25.16:523][229]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.25.16:526][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.25.16:532][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.01-20.25.16:563][230]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.02.01-20.25.29:183][635]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:184][635]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:187][635]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:190][635]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:198][636]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:200][636]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:203][636]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:208][637]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:211][637]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:217][638]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:219][638]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:225][639]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:228][639]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:233][640]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:236][640]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:241][641]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:242][641]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:246][641]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:251][642]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:254][642]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:259][643]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:262][643]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:267][644]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:270][644]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:276][645]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:278][645]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:284][646]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:287][646]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:292][647]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:295][647]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:301][648]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:303][648]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:309][649]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:312][649]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:317][650]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:320][650]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:326][651]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:328][651]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:334][652]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:336][652]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:342][653]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:346][653]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:351][654]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:354][654]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:359][655]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:363][655]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:368][656]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:371][656]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:377][657]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:380][657]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:386][658]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:389][658]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:395][659]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:398][659]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:404][660]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:409][660]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:416][661]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:419][661]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:424][662]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:427][662]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:433][663]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:435][663]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:441][664]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:444][664]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:450][665]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:452][665]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:458][666]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:460][666]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:467][667]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:469][667]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:475][668]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:477][668]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:483][669]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:486][669]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:492][670]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:495][670]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:499][671]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:500][671]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:504][671]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:508][672]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:508][672]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:511][672]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:514][672]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:519][673]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:521][673]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:525][673]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:529][674]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:532][674]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:535][674]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:540][675]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:542][675]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.29:545][675]LogUObjectArray: Warning: Other object in slot
+[2020.02.01-20.25.40:159][909]BlueprintLog: New page: Compile sleeptool_blueprint
+[2020.02.01-20.25.40:561][909]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.02.01-20.25.53:191][327]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-20.25.53:224][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.25.53:224][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-20.25.53:224][327]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2020, 6:25:53 AM)
+[2020.02.01-20.25.53:224][327]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.25.53:242][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017612s)
+[2020.02.01-20.25.53:243][327]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-20.25.53:244][327]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2020.02.01-20.25.53:244][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019343s)
+[2020.02.01-20.25.53:314][327]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-20.25.53:319][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-20.25.53:319][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-20.25.53:320][327]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-20.25.53:320][327]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: Channel Order:
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-20.25.53:389][327]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-20.25.53:402][327]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.25.53:405][327]LogInit: FAudioDevice initialized.
+[2020.02.01-20.25.53:412][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-20.25.53:415][327]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-13.25.53
+[2020.02.01-20.25.53:415][327]LogWorld: Bringing up level for play took: 0.002666
+[2020.02.01-20.25.53:415][327]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.02.01-20.25.53:418][327]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.042
+[2020.02.01-20.25.53:418][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.26.11:649][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.26.11:649][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.26.11:649][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.26.11:649][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.26.11:649][494]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.26.11:650][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.26.11:650][494]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-20.26.11:650][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.26.11:693][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-20.26.11:693][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.26.11:700][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.26.11:757][494]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.26.11:760][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.26.11:767][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.02.01-20.26.11:799][495]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.02.01-20.26.14:131][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.01-20.26.14:537][753]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMapA7FB58F94DF7A5D7A23495ADC0304673.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-20.26.14:588][753]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.02.01-20.26.14:589][753]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-20.27.11:130][243]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SCSViewport'
+[2020.02.01-20.27.11:131][243]LogSlate: Warning: The tab "SCSViewport" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.02.01-20.28.00:260][863]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SCSViewport'
+[2020.02.01-20.28.00:260][863]LogSlate: Warning: The tab "SCSViewport" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.02.01-20.28.02:266][ 85]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SCSViewport'
+[2020.02.01-20.28.02:266][ 85]LogSlate: Warning: The tab "SCSViewport" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.02.01-20.28.13:880][342]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.28.14:336][342]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2020.02.01-20.28.51:655][573]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.28.52:088][573]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.02.01-20.29.11:799][796]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.29.12:245][796]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.02.01-20.29.53:107][107]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-20.29.53:550][107]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.02.01-20.29.56:557][386]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonCharacter52419D7C4A94B98EF4E26799039F9D84.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.01-20.29.56:577][386]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.01-20.29.56:577][386]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-20.31.54:121][228]BlueprintLog: New page: Compile sleeptool_blueprint
+[2020.02.01-20.31.54:123][228]LogBlueprint: Error: [Compiler sleeptool_blueprint] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.01-20.31.54:539][228]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2020.02.01-20.32.47:448][452]BlueprintLog: New page: Compile sleeptool_blueprint
+[2020.02.01-20.32.47:859][452]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.02.01-20.34.27:627][ 31]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::SetVisibility' [Element not found.]
+[2020.02.01-20.34.37:666][172]BlueprintLog: New page: Compile sleeptool_blueprint
+[2020.02.01-20.34.38:087][172]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.02.01-20.34.39:144][277]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/sleeptool_blueprintF858F8DA42BB3FE7099E3698261964D2.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/sleeptool_blueprint.uasset'
+[2020.02.01-20.34.39:166][277]AssetCheck: New page: Asset Save: sleeptool_blueprint
+[2020.02.01-20.34.39:166][277]LogContentValidation: Display: Validating Blueprint /Game/ACA/sleeptool_blueprint.sleeptool_blueprint
+[2020.02.01-20.35.32:213][429]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.35.32:218][430]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.35.32:218][430]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.35.32:220][430]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.35.52:804][817]BlueprintLog: New page: Compile stitchtool_blueprint
+[2020.02.01-20.35.53:222][817]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.02.01-20.35.54:014][888]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/stitchtool_blueprintCC7F8AA540B678646E7EEEA2D858F3DA.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/stitchtool_blueprint.uasset'
+[2020.02.01-20.35.54:038][888]AssetCheck: New page: Asset Save: stitchtool_blueprint
+[2020.02.01-20.35.54:039][888]LogContentValidation: Display: Validating Blueprint /Game/ACA/stitchtool_blueprint.stitchtool_blueprint
+[2020.02.01-20.36.00:454][625]BlueprintLog: New page: Compile sleeptool_blueprint
+[2020.02.01-20.36.00:866][625]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.02.01-20.36.01:903][726]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/sleeptool_blueprintA6803FAC4672B33725B3CBB51190B157.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/sleeptool_blueprint.uasset'
+[2020.02.01-20.36.01:922][726]AssetCheck: New page: Asset Save: sleeptool_blueprint
+[2020.02.01-20.36.01:922][726]LogContentValidation: Display: Validating Blueprint /Game/ACA/sleeptool_blueprint.sleeptool_blueprint
+[2020.02.01-20.36.31:996][201]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.36.32:003][202]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.36.32:003][202]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.36.32:005][202]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.36.32:008][202]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.36.32:011][202]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.37.22:078][ 32]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.37.22:079][ 32]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.37.22:081][ 32]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.37.22:084][ 32]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.37.22:087][ 32]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.02.01-20.37.22:870][119]BlueprintLog: New page: Compile surgerytool_blueprint
+[2020.02.01-20.37.23:284][119]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2020.02.01-20.37.24:007][181]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/surgerytool_blueprint0DF22D6D4D7FC8C7C3F6C4BBD9A3AA0C.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/surgerytool_blueprint.uasset'
+[2020.02.01-20.37.24:028][181]AssetCheck: New page: Asset Save: surgerytool_blueprint
+[2020.02.01-20.37.24:028][181]LogContentValidation: Display: Validating Blueprint /Game/ACA/surgerytool_blueprint.surgerytool_blueprint
+[2020.02.01-20.37.31:547][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-20.37.31:579][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.37.31:579][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-20.37.31:579][ 37]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2020, 6:37:31 AM)
+[2020.02.01-20.37.31:579][ 37]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.37.31:597][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017368s)
+[2020.02.01-20.37.31:598][ 37]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-20.37.31:598][ 37]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2020.02.01-20.37.31:598][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018985s)
+[2020.02.01-20.37.31:664][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-20.37.31:670][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-20.37.31:670][ 37]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-20.37.31:670][ 37]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: Channel Order:
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-20.37.31:739][ 37]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-20.37.31:752][ 37]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-20.37.31:755][ 37]LogInit: FAudioDevice initialized.
+[2020.02.01-20.37.31:785][ 37]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-20.37.31:788][ 37]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-13.37.31
+[2020.02.01-20.37.31:789][ 37]LogWorld: Bringing up level for play took: 0.002802
+[2020.02.01-20.37.31:789][ 37]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.02.01-20.37.31:791][ 37]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.332
+[2020.02.01-20.37.31:791][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.38.20:005][746]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.38.20:005][746]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.38.20:005][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.38.20:005][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.38.20:005][746]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-20.38.20:005][746]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.38.20:006][746]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-20.38.20:006][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.38.20:043][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-20.38.20:043][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-20.38.20:051][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-20.38.20:103][746]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-20.38.20:106][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-20.38.20:112][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.02.01-20.38.20:145][747]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.02.01-20.39.10:357][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.02.01-20.39.10:448][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.01-20.39.10:859][ 87]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMapF3AAED124D44DF930F6D2EB7E3C22318.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-20.39.10:891][ 87]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.503
+[2020.02.01-20.39.10:909][ 87]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.02.01-20.39.10:909][ 87]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
