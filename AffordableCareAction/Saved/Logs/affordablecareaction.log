@@ -891,3 +891,610 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-02.29.38:692][526]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.02.01-02.29.38:692][526]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.02.01-02.29.46:545][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.01-02.34.31:550][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.02.01-02.34.31:683][ 66]LogSlate: Took 0.005291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-02.34.33:795][311]Cmd: DELETE
+[2020.02.01-02.34.33:795][311]Cmd: ACTOR DELETE
+[2020.02.01-02.34.33:808][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.34.33:831][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.01-02.34.33:832][311]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.01-02.34.36:195][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.02.01-02.34.37:353][725]Cmd: DELETE
+[2020.02.01-02.34.37:353][725]Cmd: ACTOR DELETE
+[2020.02.01-02.34.37:355][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.34.37:376][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.02.01-02.34.37:377][725]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.01-02.34.38:005][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.02.01-02.34.38:372][839]Cmd: DELETE
+[2020.02.01-02.34.38:372][839]Cmd: ACTOR DELETE
+[2020.02.01-02.34.38:373][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.34.38:393][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.01-02.34.38:394][839]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.02.01-02.34.39:453][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-02.34.40:785][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.02.01-02.34.41:439][194]Cmd: DELETE
+[2020.02.01-02.34.41:439][194]Cmd: ACTOR DELETE
+[2020.02.01-02.34.41:440][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.34.41:461][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.01-02.34.41:462][194]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.01-02.34.42:176][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.02.01-02.34.42:327][292]Cmd: DELETE
+[2020.02.01-02.34.42:327][292]Cmd: ACTOR DELETE
+[2020.02.01-02.34.42:328][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.34.42:349][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.01-02.34.42:349][292]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.02.01-02.34.43:144][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.02.01-02.34.43:168][387]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-02.34.47:344][883]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-02.34.47:369][884]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Bump_StaticMesh)
+[2020.02.01-02.34.47:689][919]Cmd: DELETE
+[2020.02.01-02.34.47:689][919]Cmd: ACTOR DELETE
+[2020.02.01-02.34.47:691][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.34.47:712][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.01-02.34.47:713][919]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.01-02.34.58:895][250]LogSlate: Took 0.005286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-02.35.20:507][798]MapCheck: New page: Map Check
+[2020.02.01-02.35.20:529][798]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.01-02.35.20:529][798]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.01-02.35.20:537][798]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.02.01-02.35.20:574][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.01-02.35.20:590][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.20:613][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.01-02.35.20:613][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.01-02.35.20:613][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.20:628][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.20:642][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.20:657][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.20:680][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.01-02.35.20:680][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.01-02.35.20:680][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.20:696][798]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.01-02.35.21:840][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.01-02.35.21:840][798]TextureStreamingBuild: Display: Compiling optional shaders took 1.263 seconds.
+[2020.02.01-02.35.21:905][798]LogLevel: Display: Export Material TexCoord Scales took 0.065 seconds.
+[2020.02.01-02.35.21:909][798]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2020.02.01-02.35.21:932][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.01-02.35.21:940][798]LightingResults: New page: Lighting Build - Jan 31, 2020, 12:35:21 PM
+[2020.02.01-02.35.22:009][798]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.01-02.35.22:118][798]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.01-02.35.22:147][798]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.01-02.35.22:672][798]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.01-02.35.22:672][798]LogSwarmInterface: [TryOpenConnection] Local Process ID is 548
+[2020.02.01-02.35.27:717][798]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.01-02.35.27:717][798]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.01-02.35.27:717][798]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.01-02.35.27:717][798]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.01-02.35.27:717][798]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.01-02.35.27:971][798]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.01-02.35.27:971][798]MapCheck: New page: ThirdPersonExampleMap - Jan 31, 2020, 12:35:27 PM
+[2020.02.01-02.35.27:972][798]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.01-02.35.27:973][798]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.569ms to complete.
+[2020.02.01-02.35.27:975][798]LogEditorBuildUtils: Build time 0:07
+[2020.02.01-02.35.27:994][798]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.01-02.35.28:013][798]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.01-02.35.28:113][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.01-02.35.28:113][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.01-02.35.28:113][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.01-02.35.28:113][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.01-02.35.28:135][799]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.01-02.35.28:157][799]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.01-02.35.28:276][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.01-02.35.28:301][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.01-02.35.29:463][801]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.01-02.35.29:463][801]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.01-02.35.29:463][801]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.01-02.35.29:463][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.01-02.35.29:463][801]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.01-02.35.29:681][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.02.01-02.35.34:034][ 93]Job is a success!
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.01-02.35.34:195][ 94]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 44 bricks 	 100.0% (Persistent Level)
+[2020.02.01-02.35.34:579][ 94]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.02.01-02.35.34:579][ 94]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.01-02.35.34:579][ 94]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.01-02.35.34:579][ 94]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.02.01-02.35.34:579][ 94]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.01-02.35.34:579][ 94]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.01-02.35.34:770][ 94]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.02.01-02.35.34:771][ 94]LogTexture: Display: ting, 46 ms setup, 689 ms photons, 3.00 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 21.0 sec total, 4.48 sec processing.
+[2020.02.01-02.35.34:771][ 94]Lightmass on eae-d-104: 3.98 sec total, 166 ms importing, 46 ms setup, 689 ms photons, 3.00 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 21.0 sec total, 4.48 sec processing.
+[2020.02.01-02.35.34:771][ 94]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2020.02.01-02.35.34:809][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.01-02.35.34:836][ 94]LogStaticLightingSystem: Illumination: 12.8 sec (391 ms encoding lightmaps, 131 ms encoding shadowmaps)
+[2020.02.01-02.35.34:836][ 94]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.01-02.35.34:836][ 94]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.01-02.35.35:724][ 94]DumpUnbuiltLightIteractions
+[2020.02.01-02.35.35:724][ 94]Lights with unbuilt interactions: 0
+[2020.02.01-02.35.35:724][ 94]
+[2020.02.01-02.35.35:724][ 94]Primitives with unbuilt interactions: 0
+[2020.02.01-02.35.35:847][ 95]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.01-02.35.35:847][ 95]MapCheck: New page: ThirdPersonExampleMap - Jan 31, 2020, 12:35:35 PM
+[2020.02.01-02.35.35:847][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.314ms to complete.
+[2020.02.01-02.36.44:488][249]Cmd: DELETE
+[2020.02.01-02.36.44:488][249]Cmd: ACTOR DELETE
+[2020.02.01-02.36.44:490][249]LogEditorActor: Deleted Actor: Character
+[2020.02.01-02.36.44:514][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.01-02.36.44:517][249]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.01-02.36.46:801][506]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-02.38.46:362][706]Cmd: DELETE
+[2020.02.01-02.38.46:362][706]Cmd: ACTOR DELETE
+[2020.02.01-02.38.46:364][706]LogEditorActor: Deleted Actor: Character
+[2020.02.01-02.38.46:385][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.01-02.38.46:388][706]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.01-02.39.22:129][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.02.01-02.40.45:249][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.01-02.41.07:783][491]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.01-02.41.13:842][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.01-02.41.14:013][178]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap_Auto18325A4944321222E0D08719E9E3C8FE1.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.02.01-02.41.14:016][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.197
+[2020.02.01-02.41.14:016][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2020.02.01-02.41.14:017][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/patient] ([1] browsable assets)...
+[2020.02.01-02.41.14:027][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/patient.patient]
+[2020.02.01-02.41.14:027][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/patient]
+[2020.02.01-02.41.14:071][178]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patient_Auto139DD3F1047E811EC66236F8E80952E0A.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/patient_Auto1.uasset'
+[2020.02.01-02.41.14:072][178]LogFileHelpers: Auto-saving content packages took 0.056
+[2020.02.01-02.41.29:401][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:401][981]LogMetaData: Removing '/Game/ACA/patient.patient_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.SKEL_patient_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.patient_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.patient_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.patient_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:402][981]LogMetaData: Removing '/Game/ACA/patient.patient_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/patient.PackageMetaData'
+[2020.02.01-02.41.29:440][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/patient" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset" SILENT=true
+[2020.02.01-02.41.29:482][981]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patient33D569EF43E0AB407DCDF098853EC190.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset'
+[2020.02.01-02.41.29:620][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.01-02.41.29:654][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.01-02.41.29:678][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.01-02.41.29:723][981]AssetCheck: New page: Asset Save: patient
+[2020.02.01-02.41.29:724][981]LogContentValidation: Display: Validating Blueprint /Game/ACA/patient.patient
+[2020.02.01-02.42.25:270][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ACA/patient.patient
+[2020.02.01-02.42.25:520][228]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.01-02.42.26:448][228]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-02.43.04:192][173]LogSlate: Window 'patient' being destroyed
+[2020.02.01-02.46.57:612][869]LogSlate: Took 0.005824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.01-02.48.03:003][119]BlueprintLog: New page: Compile patient
+[2020.02.01-02.48.03:350][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.02.01-02.48.11:177][967]BlueprintLog: New page: Compile patient
+[2020.02.01-02.48.11:440][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.02.01-02.48.26:509][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.02.01-02.48.26:732][486]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMapBC63FD6A4CECAEFEB358209551814DBF.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-02.48.26:839][486]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap_BuiltData78875F594DC4916BC919339A9BE00956.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.01-02.48.26:861][486]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.01-02.48.26:861][486]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-02.48.26:861][486]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.02.01-02.48.50:668][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-02.48.50:684][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-02.48.50:684][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-02.48.50:684][ 60]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 12:48:50 PM)
+[2020.02.01-02.48.50:685][ 60]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.01-02.48.50:686][ 60]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.01-02.48.50:687][ 60]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-02.48.50:701][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014190s)
+[2020.02.01-02.48.50:703][ 60]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-02.48.50:704][ 60]LogPlayLevel: PIE: World Init took: (0.002062s)
+[2020.02.01-02.48.50:704][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016806s)
+[2020.02.01-02.48.50:738][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-02.48.50:741][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-02.48.50:741][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-02.48.50:741][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: Channel Order:
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-02.48.50:808][ 60]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-02.48.50:822][ 60]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-02.48.50:823][ 60]LogInit: FAudioDevice initialized.
+[2020.02.01-02.48.50:835][ 60]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-02.48.50:840][ 60]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-19.48.50
+[2020.02.01-02.48.50:846][ 60]LogWorld: Bringing up level for play took: 0.007826
+[2020.02.01-02.48.50:846][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.01-02.48.50:855][ 60]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.01-02.48.50:857][ 60]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.879
+[2020.02.01-02.48.50:857][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-02.49.17:637][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-02.49.17:637][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-02.49.17:637][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-02.49.17:639][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-02.49.17:639][221]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-02.49.17:639][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-02.49.17:639][221]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-02.49.17:639][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-02.49.17:654][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-02.49.17:654][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-02.49.17:660][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-02.49.17:689][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-02.49.17:692][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-02.49.17:723][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.02.01-02.49.17:746][222]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.01-02.51.11:308][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-02.51.15:353][620]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.01-02.51.15:437][621]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.02.01-02.51.27:750][866]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.02.01-02.51.28:668][973]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.02.01-02.51.28:745][980]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.01-02.52.40:830][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.02.01-02.52.54:706][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.02.01-02.52.54:710][146]LogMetaData: Removing '/Game/ACA/doctor.SKEL_doctor_C' ref from Metadata '/Game/ACA/ThirdPersonCharacter.PackageMetaData'
+[2020.02.01-02.52.54:710][146]LogMetaData: Removing '/Game/ACA/doctor.doctor_C' ref from Metadata '/Game/ACA/ThirdPersonCharacter.PackageMetaData'
+[2020.02.01-02.52.54:759][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/doctor" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/doctor.uasset" SILENT=true
+[2020.02.01-02.52.54:800][146]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/doctorB62A8F2C4AAE858B7F8EA1AB95D7134A.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/doctor.uasset'
+[2020.02.01-02.52.55:014][146]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.01-02.52.55:059][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.02.01-02.52.55:090][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.01-02.52.55:142][146]AssetCheck: New page: Asset Save: doctor
+[2020.02.01-02.52.55:142][146]LogContentValidation: Display: Validating Blueprint /Game/ACA/doctor.doctor
+[2020.02.01-02.52.57:977][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ACA/doctor.doctor
+[2020.02.01-02.58.53:625][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.01-02.58.53:627][114]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2020.02.01-02.58.53:627][114]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ACA/patient] ([1] browsable assets)...
+[2020.02.01-02.58.53:644][114]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ACA/patient.patient]
+[2020.02.01-02.58.53:644][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/ACA/patient]
+[2020.02.01-02.58.53:686][114]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patient_Auto27AAAA7DC48EF3B2014A82686534E1A56.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ACA/patient_Auto2.uasset'
+[2020.02.01-02.58.53:687][114]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ACA/doctor] ([1] browsable assets)...
+[2020.02.01-02.58.53:701][114]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ACA/doctor.doctor]
+[2020.02.01-02.58.53:701][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/ACA/doctor]
+[2020.02.01-02.58.53:742][114]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/doctor_Auto20A32B641495B1CC48FD879B2E90EBFC8.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ACA/doctor_Auto2.uasset'
+[2020.02.01-02.58.53:744][114]LogFileHelpers: Auto-saving content packages took 0.117
+[2020.02.01-03.02.45:023][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.01-03.02.46:688][616]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.02.01-03.03.40:289][979]Cmd: DELETE
+[2020.02.01-03.03.40:289][979]Cmd: ACTOR DELETE
+[2020.02.01-03.03.40:292][979]LogEditorActor: Deleted Actor: TriggerBox
+[2020.02.01-03.03.40:339][979]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.01-03.03.40:342][979]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.02.01-03.03.44:372][452]LogActorFactory: Actor Factory created Cube
+[2020.02.01-03.03.51:959][346]LogActorFactory: Actor Factory created Cube
+[2020.02.01-03.04.22:028][936]Cmd: DELETE
+[2020.02.01-03.04.22:029][936]Cmd: ACTOR DELETE
+[2020.02.01-03.04.22:030][936]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-03.04.22:068][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-03.04.22:071][936]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.02.01-03.04.24:877][260]LogActorFactory: Actor Factory created Plane
+[2020.02.01-03.04.27:881][607]LogActorFactory: Actor Factory created Plane
+[2020.02.01-03.06.14:370][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.16:196][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.20:116][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.27:737][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SurgeryTool)
+[2020.02.01-03.06.34:206][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.01-03.06.34:226][259]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-03.06.36:089][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.36:177][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.37:238][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.37:907][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.38:436][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.06.38:504][754]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-03.06.39:257][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SurgeryTool)
+[2020.02.01-03.06.39:339][845]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box)
+[2020.02.01-03.07.16:283][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.07.17:508][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.07.18:171][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.01-03.07.19:740][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.07.20:638][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.01-03.07.21:404][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.01-03.07.21:993][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.02.01-03.07.22:060][843]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-03.07.22:292][867]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-03.07.22:986][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.07.23:822][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.01-03.07.23:875][ 44]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-03.07.24:579][124]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.01-03.07.25:104][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.02.01-03.07.30:861][866]Cmd: TRANSACTION UNDO
+[2020.02.01-03.07.30:861][866]LogEditorTransaction: Undo Move Actors
+[2020.02.01-03.07.34:084][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.01-03.08.15:290][836]LogSlate: Window 'Select Path' being destroyed
+[2020.02.01-03.08.15:347][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.02.01-03.08.15:353][836]LogSlate: Window 'Select Path' being destroyed
+[2020.02.01-03.08.15:393][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ACA/Tool_Blueprint.Tool_Blueprint
+[2020.02.01-03.08.15:806][837]LogRenderer: Reallocating scene render targets to support 1176x708 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-03.09.16:856][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.01-03.09.17:136][ 50]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap_Auto36968C939487087E8B2F4768C269FDD80.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.02.01-03.09.17:138][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.323
+[2020.02.01-03.09.17:138][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.323
+[2020.02.01-03.09.17:138][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ACA/doctor] ([1] browsable assets)...
+[2020.02.01-03.09.17:160][ 50]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ACA/doctor.doctor]
+[2020.02.01-03.09.17:160][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/ACA/doctor]
+[2020.02.01-03.09.17:201][ 50]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/doctor_Auto3B5740F9B4D9D1B4D85604B87F3FC7320.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ACA/doctor_Auto3.uasset'
+[2020.02.01-03.09.17:203][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ACA/Tool_Blueprint] ([1] browsable assets)...
+[2020.02.01-03.09.17:228][ 50]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ACA/Tool_Blueprint.Tool_Blueprint]
+[2020.02.01-03.09.17:228][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/ACA/Tool_Blueprint]
+[2020.02.01-03.09.17:245][ 50]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Tool_Blueprint_Auto3EE6895774FF443BAD4EB549739982E37.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ACA/Tool_Blueprint_Auto3.uasset'
+[2020.02.01-03.09.17:247][ 50]LogFileHelpers: Auto-saving content packages took 0.108
+[2020.02.01-03.10.53:912][384]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.02.01-03.10.53:978][385]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.02.01-03.10.53:978][385]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.01-03.10.53:978][385]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.02.01-03.10.53:978][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.01-03.10.53:994][385]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.02.01-03.10.56:450][635]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.02.01-03.10.56:561][643]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.02.01-03.10.56:908][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2020.02.01-03.10.56:958][674]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.02.01-03.10.57:613][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2020.02.01-03.10.59:411][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.02.01-03.10.59:471][861]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2020.02.01-03.11.00:088][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.02.01-03.11.02:254][ 86]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.02.01-03.11.02:764][130]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.02.01-03.11.02:899][142]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.02.01-03.11.04:488][312]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.02.01-03.11.05:424][415]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.02.01-03.11.05:494][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.01-03.11.06:565][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.01-03.11.07:261][612]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.01-03.11.07:362][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.01-03.11.07:744][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.01-03.12.32:012][501]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerPawn' [The specified module could not be found.]
+[2020.02.01-03.14.38:102][420]BlueprintLog: New page: Compile Tool_Blueprint
+[2020.02.01-03.14.38:405][420]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.02.01-03.14.43:399][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/Tool_Blueprint" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/Tool_Blueprint.uasset" SILENT=true
+[2020.02.01-03.14.43:423][978]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Tool_Blueprint4C38E32C4B8CA50611529DAFE43827B0.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/Tool_Blueprint.uasset'
+[2020.02.01-03.14.43:450][978]AssetCheck: New page: Asset Save: Tool_Blueprint
+[2020.02.01-03.14.43:450][978]LogContentValidation: Display: Validating Blueprint /Game/ACA/Tool_Blueprint.Tool_Blueprint
+[2020.02.01-03.15.20:430][282]BlueprintLog: New page: Compile doctor
+[2020.02.01-03.15.20:728][282]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.02.01-03.19.42:689][214]BlueprintLog: New page: Compile Tool_Blueprint
+[2020.02.01-03.19.43:000][214]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.02.01-03.20.42:218][226]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.02.01-03.20.42:512][226]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap_Auto448B2533D443548216ADD0F94D8512774.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.02.01-03.20.42:518][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.344
+[2020.02.01-03.20.42:518][226]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.344
+[2020.02.01-03.20.42:518][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ACA/doctor] ([1] browsable assets)...
+[2020.02.01-03.20.42:533][226]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ACA/doctor.doctor]
+[2020.02.01-03.20.42:533][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ACA/doctor]
+[2020.02.01-03.20.42:581][226]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/doctor_Auto45A8C35E54D5EF90499DC50B2CCB6B0F5.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ACA/doctor_Auto4.uasset'
+[2020.02.01-03.20.42:583][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ACA/Tool_Blueprint] ([1] browsable assets)...
+[2020.02.01-03.20.42:597][226]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ACA/Tool_Blueprint.Tool_Blueprint]
+[2020.02.01-03.20.42:597][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ACA/Tool_Blueprint]
+[2020.02.01-03.20.42:630][226]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Tool_Blueprint_Auto4D36F634B4E7A6378AA6456B8D65D091C.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Autosaves/Game/ACA/Tool_Blueprint_Auto4.uasset'
+[2020.02.01-03.20.42:631][226]LogFileHelpers: Auto-saving content packages took 0.112
+[2020.02.01-03.25.32:548][901]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.25.32:566][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.25.32:566][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-03.25.32:567][901]LogPlayLevel: [PlayLevel] Compiling patient before play...
+[2020.02.01-03.25.32:885][901]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.02.01-03.25.32:887][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 321 ms (1 blueprints)
+[2020.02.01-03.25.32:888][901]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:25:32 PM)
+[2020.02.01-03.25.32:888][901]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.25.32:914][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025765s)
+[2020.02.01-03.25.32:916][901]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.25.32:916][901]LogPlayLevel: PIE: World Init took: (0.001769s)
+[2020.02.01-03.25.32:916][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027739s)
+[2020.02.01-03.25.32:956][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-03.25.32:957][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-03.25.32:957][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-03.25.32:958][901]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-03.25.32:958][901]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: Channel Order:
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-03.25.33:026][901]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-03.25.33:039][901]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-03.25.33:041][901]LogInit: FAudioDevice initialized.
+[2020.02.01-03.25.33:052][901]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.25.33:054][901]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-20.25.33
+[2020.02.01-03.25.33:055][901]LogWorld: Bringing up level for play took: 0.002323
+[2020.02.01-03.25.33:055][901]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.01-03.25.33:057][901]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.095
+[2020.02.01-03.25.33:057][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.25.41:855][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.25.41:855][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.25.41:855][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.25.41:855][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.25.41:855][954]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.25.41:855][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.25.41:855][954]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-03.25.41:855][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-03.25.41:869][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.25.41:869][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.25.41:875][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-03.25.41:912][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.25.41:915][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.25.41:919][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.01-03.25.41:962][957]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.01-03.26.21:145][421]BlueprintLog: New page: Compile Tool_Blueprint
+[2020.02.01-03.26.21:430][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.01-03.26.22:026][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/Tool_Blueprint" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/Tool_Blueprint.uasset" SILENT=true
+[2020.02.01-03.26.22:056][484]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Tool_BlueprintB2062D91457675706C7C74BE1BD71D60.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/Tool_Blueprint.uasset'
+[2020.02.01-03.26.22:083][484]AssetCheck: New page: Asset Save: Tool_Blueprint
+[2020.02.01-03.26.22:084][484]LogContentValidation: Display: Validating Blueprint /Game/ACA/Tool_Blueprint.Tool_Blueprint
+[2020.02.01-03.26.24:561][762]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.26.24:575][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.26.24:575][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.26.24:575][762]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:26:24 PM)
+[2020.02.01-03.26.24:575][762]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.26.24:590][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014643s)
+[2020.02.01-03.26.24:591][762]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.26.24:591][762]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2020.02.01-03.26.24:591][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016160s)
+[2020.02.01-03.26.24:637][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-03.26.24:638][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-03.26.24:638][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-03.26.24:639][762]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-03.26.24:639][762]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: Channel Order:
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-03.26.24:708][762]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-03.26.24:721][762]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-03.26.24:722][762]LogInit: FAudioDevice initialized.
+[2020.02.01-03.26.24:730][762]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.26.24:732][762]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-20.26.24
+[2020.02.01-03.26.24:732][762]LogWorld: Bringing up level for play took: 0.002001
+[2020.02.01-03.26.24:733][762]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.02.01-03.26.24:734][762]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.773
+[2020.02.01-03.26.24:734][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.26.29:479][328]LogBlueprintUserMessages: [Tool_Blueprint] Hello
+[2020.02.01-03.26.32:096][642]LogBlueprintUserMessages: [Tool_Blueprint] Hello
+[2020.02.01-03.26.39:708][555]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.26.39:708][555]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.26.39:708][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.26.39:709][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.26.39:709][555]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.26.39:709][555]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.26.39:709][555]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-03.26.39:709][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-03.26.39:729][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.26.39:729][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.26.39:734][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-03.26.39:771][555]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.26.39:774][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.26.39:778][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.02.01-03.26.39:814][558]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.01-03.27.11:729][993]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.01-03.27.11:729][993]Can't find target actor or component.
+[2020.02.01-03.27.17:932][727]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.01-03.27.21:738][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.27.21:753][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.27.21:753][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.27.21:753][ 37]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:27:21 PM)
+[2020.02.01-03.27.21:753][ 37]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.27.21:767][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014135s)
+[2020.02.01-03.27.21:769][ 37]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.27.21:769][ 37]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2020.02.01-03.27.21:769][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016056s)
+[2020.02.01-03.27.21:816][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-03.27.21:820][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-03.27.21:820][ 37]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-03.27.21:820][ 37]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Name: DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: Channel Order:
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-03.27.21:888][ 37]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-03.27.21:900][ 37]LogAudioMixer: Display: Using Audio Device DELL UZ2315H (NVIDIA High Definition Audio)
+[2020.02.01-03.27.21:902][ 37]LogInit: FAudioDevice initialized.
+[2020.02.01-03.27.21:908][ 37]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.27.21:910][ 37]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-20.27.21
+[2020.02.01-03.27.21:911][ 37]LogWorld: Bringing up level for play took: 0.002068
+[2020.02.01-03.27.21:911][ 37]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.02.01-03.27.21:913][ 37]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.048
+[2020.02.01-03.27.21:913][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.27.26:054][530]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.27.26:054][530]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.27.26:054][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.27.26:054][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.27.26:054][530]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.27.26:054][530]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.27.26:055][530]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-03.27.26:055][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-03.27.26:075][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.27.26:075][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.27.26:080][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-03.27.26:117][530]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-03.27.26:120][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.27.26:125][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.02.01-03.27.26:158][532]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.01-03.27.27:450][686]LogEditorViewport: Clicking on Actor (LMB): patient_C (patient)
+[2020.02.01-03.32.26:025][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.01-03.32.26:090][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.02.01-03.32.26:371][862]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap2652078D41C18F2983FD9F8A5513CC6D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-03.32.26:397][862]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.348
+[2020.02.01-03.32.26:413][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/patient" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset" SILENT=true
+[2020.02.01-03.32.26:456][862]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patient22F0FF33488717A64227428586C4A30D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset'
+[2020.02.01-03.32.26:462][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/doctor" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/doctor.uasset" SILENT=true
+[2020.02.01-03.32.26:497][862]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/doctor907C934440F46E229828A4922CA46A5B.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/doctor.uasset'
+[2020.02.01-03.32.26:503][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/Tool_Blueprint" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/Tool_Blueprint.uasset" SILENT=true
+[2020.02.01-03.32.26:525][862]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/Tool_BlueprintF0DCE15E425D99063A1C6B8A7A00188D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/Tool_Blueprint.uasset'
+[2020.02.01-03.32.26:559][862]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.01-03.32.26:559][862]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-03.32.26:559][862]LogContentValidation: Display: Validating Blueprint /Game/ACA/patient.patient
+[2020.02.01-03.32.26:559][862]LogContentValidation: Display: Validating Blueprint /Game/ACA/doctor.doctor
+[2020.02.01-03.32.26:559][862]LogContentValidation: Display: Validating Blueprint /Game/ACA/Tool_Blueprint.Tool_Blueprint
+[2020.02.01-03.32.30:890][288]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.01-03.33.17:928][797]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.01-03.33.25:816][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-03.38.11:250][962]BlueprintLog: New page: Compile patient
+[2020.02.01-03.38.11:559][962]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.02.01-03.38.12:657][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/patient" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset" SILENT=true
+[2020.02.01-03.38.12:703][ 81]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patient1A5D58FB4A42CC055DDC0BB2190CDD1D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset'
+[2020.02.01-03.38.12:724][ 81]AssetCheck: New page: Asset Save: patient
+[2020.02.01-03.38.12:724][ 81]LogContentValidation: Display: Validating Blueprint /Game/ACA/patient.patient
+[2020.02.01-03.42.03:464][433]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2020.02.01-03.42.06:410][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.02.01-03.42.06:468][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.01-03.42.06:754][722]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap7E9457094BE2AAF9EE23CD8B8EDADC52.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-03.42.06:777][722]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.349
+[2020.02.01-03.42.06:793][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/patient" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset" SILENT=true
+[2020.02.01-03.42.06:833][722]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patient04B2036D41CFEAB691DD31A2A5C608DD.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset'
+[2020.02.01-03.42.06:857][722]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.01-03.42.06:857][722]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.01-03.42.06:857][722]LogContentValidation: Display: Validating Blueprint /Game/ACA/patient.patient
+[2020.02.01-03.42.16:289][147]BlueprintLog: New page: Compile patient
+[2020.02.01-03.42.16:587][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.01-03.42.21:212][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.01-03.42.21:270][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.01-03.42.21:534][606]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMapFD7D67C9431CADE7044729873ABB7C5D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.01-03.42.21:557][606]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.330
+[2020.02.01-03.42.21:573][606]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.02.01-03.42.21:573][606]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
