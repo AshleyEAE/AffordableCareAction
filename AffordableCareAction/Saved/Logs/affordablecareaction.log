@@ -4383,3 +4383,22 @@ Script Stack (0 frames):
 [2020.02.02-00.15.30:107][587]LogPlayLevel: Display: Destroying online subsystem :Context_63
 [2020.02.02-00.15.35:716][193]LogUObjectArray: Warning: Other object in slot
 [2020.02.02-00.15.35:716][193]LogUObjectArray: Warning: Other object in slot
+[2020.02.02-00.20.11:625][803]LogSlate: Window 'Delete Variable' being destroyed
+[2020.02.02-00.20.38:765][549]BlueprintLog: New page: Compile patient
+[2020.02.02-00.20.39:134][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.02.02-00.21.04:325][408]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-00.21.25:288][771]BlueprintLog: New page: Compile patient
+[2020.02.02-00.21.25:599][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.02.02-00.21.26:235][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/patient" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset" SILENT=true
+[2020.02.02-00.21.26:311][821]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/patientF77BE43D42EF3A29204184B10CD59EE4.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/patient.uasset'
+[2020.02.02-00.21.26:332][821]AssetCheck: New page: Asset Save: patient
+[2020.02.02-00.21.26:332][821]LogContentValidation: Display: Validating Blueprint /Game/ACA/patient.patient
+[2020.02.02-00.21.33:286][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.02.02-00.21.33:368][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.02-00.21.33:660][603]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap7573182446AE4A8110D8E3A793C5D67B.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.02-00.21.33:694][603]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.376
+[2020.02.02-00.21.33:694][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/PatientHug" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/PatientHug.uasset" SILENT=true
+[2020.02.02-00.21.33:733][603]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/PatientHug2C350AAB4159CB9D7BED6C9AF19FB86D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/PatientHug.uasset'
+[2020.02.02-00.21.33:757][603]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.02-00.21.33:757][603]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.02-00.21.33:757][603]LogContentValidation: Display: Validating WidgetBlueprint /Game/ACA/PatientHug.PatientHug
