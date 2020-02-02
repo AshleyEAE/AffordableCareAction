@@ -1234,3 +1234,18 @@ Script Stack (0 frames):
 [2020.02.02-19.00.37:722][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.02-19.00.37:728][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
 [2020.02.02-19.00.37:752][857]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.02-19.00.59:810][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.02-19.00.59:883][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.02-19.01.00:284][954]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/ThirdPersonExampleMap8627919E46F89BC1A2B4CBAB3408CB8D.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.02-19.01.00:325][954]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.491
+[2020.02.02-19.01.00:325][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/PatientHug" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/PatientHug.uasset" SILENT=true
+[2020.02.02-19.01.00:361][954]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/PatientHug554CCA484F5B98A6EEC231AD63864E0B.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/PatientHug.uasset'
+[2020.02.02-19.01.00:368][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/SuccessCheer" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/SuccessCheer.uasset" SILENT=true
+[2020.02.02-19.01.00:379][954]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/SuccessCheer53A5A77148353539787D2287C5E1A61B.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/SuccessCheer.uasset'
+[2020.02.02-19.01.00:382][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ACA/SuccessCheer_Cue" FILE="../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/SuccessCheer_Cue.uasset" SILENT=true
+[2020.02.02-19.01.00:389][954]LogSavePackage: Moving '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Saved/SuccessCheer_CueC54FA05340BCFEC958EA88B23794382A.tmp' to '../../../../../../Users/u6009089/Documents/GitHub/AffordableCareAction/affordablecareaction/Content/ACA/SuccessCheer_Cue.uasset'
+[2020.02.02-19.01.00:434][954]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.02-19.01.00:434][954]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.02-19.01.00:434][954]LogContentValidation: Display: Validating WidgetBlueprint /Game/ACA/PatientHug.PatientHug
+[2020.02.02-19.01.00:434][954]LogContentValidation: Display: Validating SoundWave /Game/ACA/SuccessCheer.SuccessCheer
+[2020.02.02-19.01.00:434][954]LogContentValidation: Display: Validating SoundCue /Game/ACA/SuccessCheer_Cue.SuccessCheer_Cue
